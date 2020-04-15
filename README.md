@@ -1,2 +1,2 @@
-# ant-learn-python-zero
-零基础入门学Python的代码
+该目录是我的付费视频的代码。  
+
